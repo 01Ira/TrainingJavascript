@@ -1,0 +1,42 @@
+[
+    {
+        "city": "Kyiv", 
+        "state": "Kyiv oblast"
+    }, 
+    {
+        "city": "Lviv",
+        "state": "Lviv oblast"
+    }, 
+    {
+        "city": "Chernihiv", 
+        "state": "Chernihiv oblast"
+    }, 
+    {
+        "city": "Cherkasy", 
+        "state": "Cherkasy oblast"
+    }, 
+    {
+        "city": "Kharkiv",
+        "state": "Kharkiv oblast"
+    }, 
+    {
+        "city": "Sumy", 
+        "state": "Sumy oblast"
+    }, 
+    {
+        "city": "Rivne", 
+        "state": "Rivne oblast"
+    }, 
+    {
+        "city": "Kherson", 
+        "state": "Kherson oblast"
+    }, 
+    {
+        "city": "Mykolaiv", 
+        "state": "Mykolaiv oblast"
+    }, 
+    {
+        "city": "Odesa",  
+        "state": "Odesa oblast"
+    }
+]
